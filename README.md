@@ -3,6 +3,8 @@
 The [Google Colab Notebook](https://colab.research.google.com/github/hatopopvr/MyPPSimulator/blob/main/MyPPSimulator_En.ipynb)
  to simulate your [ScoreSaber](https://scoresaber.com/)'s total PP.
 
+![img](images/image_001.jpg)
+
 <b>Data</b>
 - Score Data from ScoreSaber Public API - [doc](https://docs.scoresaber.com/)  
 - Ranked Map Data from RankedMapData by rakkyo150 - [RankedMapData](https://github.com/rakkyo150/RankedMapData)  
@@ -23,3 +25,5 @@ The [Google Colab Notebook](https://colab.research.google.com/github/hatopopvr/M
 
 3. This tool saved  data on Google Drive, so you'll need to do a Google Authentication with your account.  
   (saved data: songs data, score data, etc.)
+
+![img](images/image_002.jpg)
