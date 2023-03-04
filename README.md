@@ -12,3 +12,14 @@ The [Google Colab Notebook](https://colab.research.google.com/github/hatopopvr/M
 
 <b>Caution</b>
 - If you would like me to add a default value for the timezone, please mentions me on Twitter.
+
+## how to use
+
+1. When the [notebook](https://colab.research.google.com/github/hatopopvr/MyPPSimulator/blob/main/MyPPSimulator_En.ipynb)  opens, input information below.
+ - `player_id` : enter the ScoreSaber PlayerID.
+
+2. Press the `Runtime` tab, then Press the `Run All` or `Restart and Run All` button to get the results.  
+  (Please run it despite the warning. )
+
+3. This tool saved  data on Google Drive, so you'll need to do a Google Authentication with your account.  
+  (saved data: songs data, score data, etc.)
