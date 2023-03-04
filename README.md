@@ -16,11 +16,11 @@ The [Google Colab Notebook](https://colab.research.google.com/github/hatopopvr/M
 3. This tool saved  data on Google Drive, so you'll need to do a Google Authentication with your account.  
   (saved data: songs data, score data, etc.)
 
-### Simulator Overview.
+### Simulator Overview
 
 ![img](images/image_002.jpg)
 
-### ScatterPlot Overview.
+### ScatterPlot Overview
 
 ![img](images/image_003.jpg)
 
