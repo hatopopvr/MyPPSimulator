@@ -3,6 +3,9 @@
 The [Google Colab Notebook](https://colab.research.google.com/github/hatopopvr/MyPPSimulator/blob/main/MyPPSimulator_En.ipynb)
  to simulate your [ScoreSaber](https://scoresaber.com/)'s total PP.
 
+- [MyPPSimulator_En](https://colab.research.google.com/github/hatopopvr/MyPPSimulator/blob/main/MyPPSimulator_En.ipynb)
+- [Beta](https://colab.research.google.com/github/hatopopvr/MyPPSimulator/blob/main/MyPPSimulator_Beta_En_20230310_v4_5.ipynb)
+
 ![img](images/image_001.jpg)
 
 ## how to use
