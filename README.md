@@ -3,8 +3,8 @@
 The [Google Colab Notebook](https://colab.research.google.com/github/hatopopvr/MyPPSimulator/blob/main/MyPPSimulator_En.ipynb)
  to simulate your [ScoreSaber](https://scoresaber.com/)'s total PP.
 
-- [MyPPSimulator_En](https://colab.research.google.com/github/hatopopvr/MyPPSimulator/blob/main/MyPPSimulator_En.ipynb)
-- [Beta](https://colab.research.google.com/github/hatopopvr/MyPPSimulator/blob/main/MyPPSimulator_Beta_En_20230310_v4_5.ipynb)
+- [MyPPSimulator_En](https://colab.research.google.com/github/hatopopvr/MyPPSimulator/blob/main/MyPPSimulator_En.ipynb) : PP Simulation is available.
+- [Beta](https://colab.research.google.com/github/hatopopvr/MyPPSimulator/blob/main/MyPPSimulator_Beta_En_20230310_v4_5.ipynb) : Acc Prediction Model, PP Simulation, Playlist Simulation are available.
 
 ![img](images/image_001.jpg)
 
