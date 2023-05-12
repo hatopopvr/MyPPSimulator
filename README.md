@@ -31,9 +31,7 @@ The [Google Colab Notebook](https://colab.research.google.com/github/hatopopvr/M
 <b>Data</b>
 - Score Data from ScoreSaber Public API - [doc](https://docs.scoresaber.com/)  
 - Ranked Map Data from RankedMapData by rakkyo150 - [RankedMapData](https://github.com/rakkyo150/RankedMapData)  
-
+- Curve Data from ScoreSaber Discord Server - [curve-discussion channel](https://discord.com/channels/501624026532151296/1105521706057072811)
+- 
 <b>Author</b>
 - hatopop ([@hatopop_vr](https://twitter.com/hatopop_vr))
-
-<b>Caution</b>
-- If you would like me to add a default value for the timezone, please mentions me on Twitter.
