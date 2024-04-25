@@ -4,7 +4,7 @@ The [Google Colab Notebook](https://colab.research.google.com/github/hatopopvr/M
  to simulate your [ScoreSaber](https://scoresaber.com/)'s total PP.
 
 - [MyPPSimulator_En](https://colab.research.google.com/github/hatopopvr/MyPPSimulator/blob/main/MyPPSimulator_En.ipynb) : PP Simulation, Curve Simulation are available.
-- [Beta(v5.0.4)](https://colab.research.google.com/github/hatopopvr/MyPPSimulator/blob/main/MyPPSimulator_Beta_En_20230522_v5_0_4.ipynb) : Acc Prediction Model, PP Simulation, Playlist Simulation, Curve Simulation are available.
+- [Beta(v5.0.5)](https://colab.research.google.com/github/hatopopvr/MyPPSimulator/blob/main/MyPPSimulator_Beta_En_20240425_v5_0_5.ipynb) : Acc Prediction Model, PP Simulation, Playlist Simulation, Curve Simulation are available.
 
 ![img](images/image_001.jpg)
 
