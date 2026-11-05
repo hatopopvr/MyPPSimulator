@@ -4,10 +4,18 @@ Validated on 2026-11-05 JST. Covers `MyPPSimulator_En.ipynb` and Beta 5.0.8. The
 
 ## First run
 
-1. Open the notebook from the branch you want to use and enter your ScoreSaber `player_id`. Published notebooks leave this field blank.
+1. Use either link under [Open the repaired notebooks in Colab in the README](../README.md#open-the-repaired-notebooks-in-colab), confirm the **修正版 / Repair version** notice, and enter your ScoreSaber `player_id`. Published notebooks leave this field blank.
 2. Run **Input Information** to install the packages.
 3. After installation finishes, restart the session once, then run all cells from the top. Colab can preload NumPy even in a fresh runtime. An initial `_no_nep50_warning` error after installation means the session needs this restart.
 4. Review the Google Drive authorization. Use a separate data directory for the first run to protect existing data.
+
+## Launch links and merging (for maintainers)
+
+The two README links and each notebook's Colab badge target the same files on `fix/colab-python313-compat`. Share this branch's README while `main` still contains the older version.
+
+When merging the repair in the future, include an update that changes the README links, both notebook badges and their ref notices to `main`. Do not direct users to that transitional branch's links until the merge is complete. After merging, open both notebooks from the `main` README and confirm the repair notice before deleting the repair branch. A merge alone does not automatically change the link targets.
+
+This launch-link update changes Markdown only; code cells are identical to the validated repair.
 
 ## Changes
 

@@ -1,10 +1,15 @@
 ## MyPPSimulator_En
 
-The [Google Colab Notebook](https://colab.research.google.com/github/hatopopvr/MyPPSimulator/blob/main/MyPPSimulator_En.ipynb)
- to simulate your [ScoreSaber](https://scoresaber.com/)'s total PP.
+Google Colab notebooks to simulate your [ScoreSaber](https://scoresaber.com/)'s total PP.
 
-- [MyPPSimulator_En](https://colab.research.google.com/github/hatopopvr/MyPPSimulator/blob/main/MyPPSimulator_En.ipynb) : PP Simulation, Curve Simulation are available.
-- [Beta(v5.0.8)](https://colab.research.google.com/github/hatopopvr/MyPPSimulator/blob/main/MyPPSimulator_Beta_En_20250615_v5_0_8.ipynb) : Acc Prediction Model, PP Simulation, Playlist Simulation, Curve Simulation are available.
+### Open the repaired notebooks in Colab
+
+These links open the Python 3.13 repair directly from `fix/colab-python313-compat`. No download or upload is needed.
+
+- [Standard — Open in Colab](https://colab.research.google.com/github/hatopopvr/MyPPSimulator/blob/fix/colab-python313-compat/MyPPSimulator_En.ipynb): PP Simulation and Curve Simulation.
+- [Beta v5.0.8 — Open in Colab](https://colab.research.google.com/github/hatopopvr/MyPPSimulator/blob/fix/colab-python313-compat/MyPPSimulator_Beta_En_20250615_v5_0_8.ipynb): Acc Prediction Model, PP Simulation, Playlist Simulation and Curve Simulation.
+
+Confirm that **Colab compatibility update** and **修正版 / Repair version** appear at the top of the opened notebook.
 
 ![img](images/image_001.jpg)
 
@@ -12,7 +17,7 @@ The [Google Colab Notebook](https://colab.research.google.com/github/hatopopvr/M
 
 The maintained notebooks include dependency and code updates for Python 3.13 in Colab. See [Colab compatibility and validation](docs/colab-compatibility.md) for versions, tested behavior and limitations.
 
-To try a repair branch before it is merged, download its `.ipynb` file and use Colab's **Open notebook → Upload**. The `main` links above continue to open the previous version until the repair is merged.
+Start with either **Open in Colab** link above.
 
 1. Enter your ScoreSaber `player_id` in the input form; it is blank by default. Use a separate data directory for your first run to preserve existing data.
 2. Run **Input Information** to install the packages. Colab can preload NumPy even in a new session; the first setup may report `_no_nep50_warning` after installation.
