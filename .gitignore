@@ -1,0 +1,8 @@
+# Local test environments and notebook execution artifacts
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+validation/
+*.executed.ipynb

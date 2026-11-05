@@ -10,14 +10,14 @@ The [Google Colab Notebook](https://colab.research.google.com/github/hatopopvr/M
 
 ## how to use
 
-1. When the [notebook](https://colab.research.google.com/github/hatopopvr/MyPPSimulator/blob/main/MyPPSimulator_En.ipynb)  opens, input information below.
- - `player_id` : enter the ScoreSaber PlayerID.
+The maintained notebooks include dependency and code updates for Python 3.13 in Colab. See [Colab compatibility and validation](docs/colab-compatibility.md) for versions, tested behavior and limitations.
 
-2. Press the `Runtime` tab, then Press the `Run All` or `Restart and Run All` button to get the results.  
-  (Please run it despite the warning. )
+To try a repair branch before it is merged, download its `.ipynb` file and use Colab's **Open notebook → Upload**. The `main` links above continue to open the previous version until the repair is merged.
 
-3. This tool saved  data on Google Drive, so you'll need to do a Google Authentication with your account.  
-  (saved data: songs data, score data, etc.)
+1. Enter your ScoreSaber `player_id` in the input form; it is blank by default. Use a separate data directory for your first run to preserve existing data.
+2. Run **Input Information** to install the packages. Colab can preload NumPy even in a new session; the first setup may report `_no_nep50_warning` after installation.
+3. Once installation finishes, restart the session using the **Runtime** menu, then run all cells from the top.
+4. The notebook uses Google Drive to store map and score data. Review and complete the Drive authorization when prompted.
 
 ### Simulator Overview
 
